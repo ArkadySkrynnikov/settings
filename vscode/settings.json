@@ -1,34 +1,37 @@
 {
-    "editor.fontSize": 22,
     "workbench.editor.empty.hint": "hidden",
-    "terminal.integrated.fontSize": 20,
+    "workbench.editor.enablePreview": false,
     "workbench.tree.indent": 20,
     "workbench.colorTheme": "Webstorm New Light",
+    "workbench.activityBar.location": "bottom",
+    "workbench.iconTheme": "ayu",
+
+    "terminal.integrated.fontSize": 20,
+
+    "editor.fontSize": 22,
     "editor.formatOnSave": true,
     "editor.lineHeight": 1.5,
+        "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.stickyScroll.enabled": false,
+    "editor.linkedEditing": true,
+    "editor.glyphMargin": false,
+    
     "breadcrumbs.enabled": false,
     "diffEditor.renderGutterMenu": false,
     "debug.showInlineBreakpointCandidates": false,
-    "editor.glyphMargin": false,
     "diffEditor.renderMarginRevertIcon": false,
     "explorer.compactFolders": false,
     "scm.compactFolders": false,
-    "editor.linkedEditing": true,
     "html.autoClosingTags": true,
     "js/ts.autoClosingTags.enabled": true,
-    "workbench.activityBar.location": "bottom",
-    "editor.stickyScroll.enabled": false,
     "cSpell.language": "en, ru",
-    "workbench.iconTheme": "ayu",
-    "editor.fontFamily": "Jetbrains Mono",
     "cSpell.userWords": [
         "nframes",
         "popcount",
         "tempconv",
         "Сolorlndex"
-    ],
-    "editor.unicodeHighlight.allowedLocales": {
-        "ru": true
-    },
-    "jdk.telemetry.enabled": false
+    ]
 }
